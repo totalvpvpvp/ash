@@ -8,7 +8,7 @@ ash机场，IPLC线路、隧道中转，由优质大陆中转线路承载。
 
 解锁多国流媒体，节点协议 Shadowsocks、Hysteria2、Reality。
 
-ash机场提供1PB资源的Emby服务，除Mini套餐和不限时套餐外均支持Emby影视库。11
+ash机场提供1PB资源的Emby服务，除Mini套餐和不限时套餐外均支持Emby影视库。111
 
 ## ash优惠码
 
